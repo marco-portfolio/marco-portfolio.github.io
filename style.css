@@ -20,7 +20,7 @@ body{
     flex-grow: 1;
     margin-right: 50px;
     list-style: none;
-    background-color: red;
+    background-color: rgb(230, 230, 230);
     text-align: center;
 }
 #nav a{
@@ -28,6 +28,7 @@ body{
     display: inline-block;
     /*background-color: rgb(245, 245, 245);*/
     text-decoration: none;
+    font-weight: 400;
     color: rgb(0, 0, 0);
     padding-top: 50%;
 }
